@@ -1,4 +1,4 @@
-# README.md
+# jQuery
 
 jQuery is one of the most widely used JavaScript libraries in the world.
 
